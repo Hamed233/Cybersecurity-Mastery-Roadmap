@@ -827,6 +827,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [RangeForce](https://www.rangeforce.com/) - Hands-on cybersecurity training
   - [Pluralsight](https://www.pluralsight.com/browse/information-cyber-security) - IT and security courses
   - [Udemy](https://www.udemy.com/courses/it-and-software/network-and-security/) - Various security courses
+  - [8kSec Academy](https://academy.8ksec.io) - Mobile and AI security courses
 
 - **Practice Environments**
   - [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA) - Vulnerable web application
