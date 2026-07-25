@@ -815,6 +815,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - **Learning Platforms**
   - [TryHackMe](https://tryhackme.com/) - Interactive cybersecurity training
   - [HackTheBox](https://www.hackthebox.eu/) - Penetration testing labs
+  - [HackerDNA](https://hackerdna.com/) - Hands-on cyber learning
   - [VulnHub](https://www.vulnhub.com/) - Vulnerable virtual machines
   - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Web security training
   - [Cybrary](https://www.cybrary.it/) - Free cybersecurity courses
@@ -1264,6 +1265,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [SANS Holiday Hack Challenge](https://holidayhackchallenge.com/) - Annual holiday-themed CTF
 - [Google CTF Beginners Quest](https://capturetheflag.withgoogle.com/) - Beginner-friendly CTF by Google
 - [TryHackMe](https://tryhackme.com/) - Learn cybersecurity through CTF-like challenges
+- [HackerDNA](https://hackerdna.com/) - CTF challenges with weekly and monthly rankings
 - [OverTheWire](https://overthewire.org/wargames/) - Wargames for learning security concepts
 
 ### Advanced CTFs
