@@ -480,6 +480,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - "Security Operations Center: Building, Operating, and Maintaining your SOC" by Joseph Muniz
     - "The Practice of Network Security Monitoring" by Richard Bejtlich
   - **Tools**:
+    - [DLL Injection Lab](https://github.com/bsmensah-ctrl/DLL-Injection-Lab) - Synthetic process-injection correlation lab with JSON, Markdown, and SARIF output
     - [Splunk](https://www.splunk.com/) - Security information and event management
     - [ELK Stack](https://www.elastic.co/elastic-stack) - Log analysis platform
     - [Wazuh](https://wazuh.com/) - Security monitoring solution
@@ -829,6 +830,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [Udemy](https://www.udemy.com/courses/it-and-software/network-and-security/) - Various security courses
 
 - **Practice Environments**
+  - [DLL Injection Lab](https://github.com/bsmensah-ctrl/DLL-Injection-Lab) - Browser-enabled synthetic DLL-injection detection lab with no live process access
   - [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA) - Vulnerable web application
   - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Vulnerable web application
   - [WebGoat](https://owasp.org/www-project-webgoat/) - Deliberately insecure web application
