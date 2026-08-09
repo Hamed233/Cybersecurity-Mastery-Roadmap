@@ -818,6 +818,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [VulnHub](https://www.vulnhub.com/) - Vulnerable virtual machines
   - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Web security training
   - [Cybrary](https://www.cybrary.it/) - Free cybersecurity courses
+  - [LabEx](https://labex.io/) - Hands-on learning platform with cybersecurity courses and labs
   - [edX Cybersecurity Courses](https://www.edx.org/learn/cybersecurity) - University-level courses
   - [Coursera Cybersecurity Specializations](https://www.coursera.org/browse/information-technology/security) - University-level courses
   - [SANS Cyber Aces](https://www.cyberaces.org/) - Free online courses
