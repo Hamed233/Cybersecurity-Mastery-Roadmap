@@ -870,7 +870,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [theHarvester](https://github.com/laramies/theHarvester) - Email, subdomain and name harvester
 - [Maltego](https://www.maltego.com/) - Open source intelligence and forensics
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - OSINT automation tool
-- [Amass](https://github.com/OWASP/Amass) - In-depth attack surface mapping and asset discovery
+- [Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Subdomain enumeration tool
 - [OWASP Maryam](https://github.com/saeeddhqan/Maryam) - Open-source intelligence framework
 
@@ -980,6 +980,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [OSINT Framework](https://osintframework.com/) - Collection of OSINT tools
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username
 - [IntelTechniques](https://inteltechniques.com/tools/) - OSINT tools collection
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## Certifications Guide
 
