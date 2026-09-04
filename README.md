@@ -873,6 +873,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [Amass](https://github.com/OWASP/Amass) - In-depth attack surface mapping and asset discovery
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Subdomain enumeration tool
 - [OWASP Maryam](https://github.com/saeeddhqan/Maryam) - Open-source intelligence framework
+- [Digga - Subdomain Finder](https://digga.dev/subdomains) - subdomain discovery
 
 ### Vulnerability Assessment
 
@@ -881,10 +882,12 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [Nikto](https://cirt.net/Nikto2) - Web server scanner
 - [Qualys](https://www.qualys.com/) - Cloud-based security and compliance
 - [Nexpose](https://www.rapid7.com/products/nexpose/) - Vulnerability management
+- [ImmuniWeb - Neuron](https://www.immuniweb.com/products/neuron/) - Web Application Security Scanning
 - [Acunetix](https://www.acunetix.com/) - Web vulnerability scanner
 - [Netsparker](https://www.netsparker.com/) - Web application security scanner
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Vulnerability scanner based on templates
 - [Vulners Scanner](https://github.com/vulnersCom/nmap-vulners) - NSE script using Vulners.com API
+- [Pentest Tools - Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - website vulnerability scanner
 
 ### Web Application Security
 
@@ -897,6 +900,9 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [Skipfish](https://github.com/spinkham/skipfish) - Active web application security reconnaissance tool
 - [w3af](https://github.com/andresriancho/w3af) - Web Application Attack and Audit Framework
 - [Arachni](https://www.arachni-scanner.com/) - Web application security scanner framework
+- [Mozilla - HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Analysis of HTTP security headers and website configuration
+- [ImmuniWeb — Website Security Test](https://www.immuniweb.com/websec/) - website security testing
+- [Sucuri - malware and security checker](https://sitecheck.sucuri.net/) - detection of malware and website compromises
 
 ### Exploitation
 
