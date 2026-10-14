@@ -1002,9 +1002,10 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [CompTIA A+](https://www.comptia.org/certifications/a) - IT fundamentals
   - **Focus Areas**: Hardware, operating systems, software troubleshooting, networking, security
   - **Prerequisites**: None, but 9-12 months of experience recommended
-  - **Exam Format**: Two exams: Core 1 and Core 2, 90 minutes each
+  - **Exam Format**: Two exams, Core 1 (220-1201) and Core 2 (220-1202): up to 90 questions in 90 minutes each, performance-based and multiple choice
   - **Validity**: 3 years, renewable with continuing education
   - **Career Paths**: Help desk technician, desktop support analyst, field service technician
+  - **Free Study Resources**: [Professor Messer's free 220-1201 video course](https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/220-1201-training-course/), [ExamWizardz free A+ PBQs and labs](https://www.examwizardz.app/pbq-practice) (interactive performance-based questions, no account needed)
 
 - [Certified Information Systems Security Professional (CISSP) Associate](https://www.isc2.org/Certifications/CISSP) - Entry-level version of CISSP
   - **Focus Areas**: Same as CISSP but for those without the required experience
