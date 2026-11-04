@@ -346,6 +346,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [Web Security Academy](https://portswigger.net/web-security)
   - [SANS SEC542: Web App Penetration Testing and Ethical Hacking](https://www.sans.org/cyber-security-courses/web-app-penetration-testing-ethical-hacking/)
   - [Kontra OWASP Top 10](https://application.security/free/owasp-top-10)
+  - [RansomLeak Application Security](https://ransomleak.com/catalogue/application-security/)
   - **Books**:
     - "The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto
     - "Web Security for Developers" by Malcolm McDonald
