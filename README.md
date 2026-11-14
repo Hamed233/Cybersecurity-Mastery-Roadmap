@@ -732,6 +732,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - [Certification Comparison](https://pauljerimy.com/security-certification-roadmap/)
     - [Cybersecurity Certification Guide](https://www.cybersecurityeducation.org/certifications/)
     - [Reddit r/cybersecurity Certification Guides](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_certification_questions)
+    - [CertSprint](https://getcertsprint.com/certifications) - Scenario-based practice questions and PBQs for CompTIA A+, Network+, Security+, CySA+, Microsoft SC-200 and BTL1, with a free set of 20 questions per certification (no account)
   - **Practical Exercises**:
     - Create a personalized certification roadmap
     - Build a study plan for your target certification
