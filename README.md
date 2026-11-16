@@ -724,6 +724,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [ISC2 Certifications](https://www.isc2.org/Certifications)
   - [ISACA Certifications](https://www.isaca.org/credentialing)
   - [EC-Council Certifications](https://www.eccouncil.org/programs/)
+  - [Practical DevSecOps Training & Certifications](https://www.practical-devsecops.com/)
   - **Books**:
     - "CISSP All-in-One Exam Guide" by Shon Harris and Fernando Maymi
     - "CompTIA Security+ Get Certified Get Ahead" by Darril Gibson
