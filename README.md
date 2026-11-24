@@ -732,6 +732,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - [Certification Comparison](https://pauljerimy.com/security-certification-roadmap/)
     - [Cybersecurity Certification Guide](https://www.cybersecurityeducation.org/certifications/)
     - [Reddit r/cybersecurity Certification Guides](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_certification_questions)
+    - [Most In-Demand Cybersecurity Certifications](https://infosecjobs.io/in-demand-cybersecurity-certifications) - Which certifications open job posts name most, counted from real postings
   - **Practical Exercises**:
     - Create a personalized certification roadmap
     - Build a study plan for your target certification
